@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrImNoBear
-- 👀 I’m interested in AI
+- 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning to code in general
 - 💞️ I’m looking to collaborate on learning programming 
 - 📫 To reach me just hit me up on my instagram NickasBulionis

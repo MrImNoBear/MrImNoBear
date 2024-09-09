@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrImNoBear
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning to code in general
-- 💞️ I’m looking to collaborate on learning programming 
-- 📫 To reach me just DM me on Telegram Nickas Bulionis
+
 
 
 <!---

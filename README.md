@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrImNoBear, I am currently
-- developing/founder of BluRoute. The revolutionary 
-- logistic organisation app to help automate tasks
-- for your business! 
+developing/founder of BluRoute. The revolutionary 
+logistic organisation app to help automate tasks
+for your business! 
 
 
 

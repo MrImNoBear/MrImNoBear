@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MrImNoBear
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning to code in general
+- 👋 Hi, I’m @MrImNoBear, I am currently
+- developing/founder of BluRoute. The revolutionary 
+- logistic organisation app to help automate tasks
+- for your business! 
 
 
 
